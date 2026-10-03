@@ -2,4 +2,4 @@
 
 hi
 
-![img.png](img.png)
+![img.png](../img.png)
